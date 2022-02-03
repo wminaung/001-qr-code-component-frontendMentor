@@ -15,10 +15,10 @@
     <title>Frontend Mentor | QR code component</title>
 
     <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
-    <!-- <style>
+     <style>
     .attribution { font-size: 11px; text-align: center; }
     .attribution a { color: hsl(228, 45%, 44%); }
-  </style> -->
+  </style> 
     <!-- CSS only -->
 
     <link
@@ -30,22 +30,34 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <div class="container d-flex justify-content-center align-items-center">
-      <div class="row d-flex justify-content-center align-items-center">
+    <div class="parent d-flex flex-column justify-content-center align-items-center vh-100">
+      <div class="d-flex justify-content-center align-items-center">
         <div
-          class="col-6 card d-flex flex-column justify-content-around align-items-center"
+          class="card d-flex flex-column justify-content-center align-items-center"
         >
-          <img src="./images/image-qr-code.png" alt="" />
+          <img src="./images/image-qr-code.png" alt="image-qr-code" />
 
-          <div class="param">
-            <h5>Improve your front-end skills by building projects</h5>
-            <p>
-              Scan the QR code to visit Frontend Mentor and take your coding
-              skills to the next level
-            </p>
-          </div>
+          <h1 class="text-center">
+            Improve your front-end skills by building projects
+          </h1>
+          <p>
+            Scan the QR code to visit Frontend Mentor and take your coding
+            skills to the next level
+          </p>
         </div>
+        <footer>
+     
       </div>
+      <div class="attribution ">
+        Challenge by
+        <a
+          href="https://www.frontendmentor.io?ref=challenge"
+          target="_blank"
+          >Frontend Mentor</a
+        >. Coded by
+        <a href="https://github.com/wminaung">Win Min Aung</a>.
+      </div>
+    </footer>
     </div>
   </body>
 </html>
