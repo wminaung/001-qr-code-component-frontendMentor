@@ -30,7 +30,7 @@ what u think? Is it good?
 ### Links
 
 - Solution URL: [My solution](https://github.com/wminaung/000-FrontendMentor.git)
-- Live Site URL: [000-frontend-mentor-quylzf076-wminaung.vercel.app](https://000-frontend-mentor-quylzf076-wminaung.vercel.app/)
+- Live Site URL: [000-frontend-mentor-53mlg9rmb-wminaung.vercel.app/](https://000-frontend-mentor-53mlg9rmb-wminaung.vercel.app/)
 
 ## My process
 
